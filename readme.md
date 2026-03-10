@@ -166,3 +166,13 @@ Display users on webpage
 ```
 
 ---
+
+## Status Codes
+
+A status code is a number returned by the server that tells us whether the API request succeeded or failed.
+
+100–199 → Informational
+200–299 → Success
+300–399 → Redirection
+400–499 → Client Errors
+500–599 → Server Errors
